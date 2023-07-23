@@ -5,4 +5,4 @@
 
 - :meat_on_bone: 稀土掘金：https://juejin.cn/user/571401779544328
  
-- :hammer:  个人网站：https://evanjason.github.io/
+- :hammer:  个人网站：https://evanjason.github.io/newBlog/
