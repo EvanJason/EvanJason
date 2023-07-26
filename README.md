@@ -1,6 +1,3 @@
-
-### EvanJason'
-
 ### 👋 Hi there, I'm EvanJason. 
 
 - 👨‍💻 Code enthusiast
