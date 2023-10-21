@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm EvanJason. 
+### 👋 Hi here, I'm EvanJason. 
 
 - 👨‍💻 Code enthusiast
 - 🌱 Keep learning, hoping to learn unlimited possibilities in a limited time.
